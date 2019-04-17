@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">galeria2</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulolista">lo que sea</string>
+    <string name="titulo">Nombre de la imagen</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="agreguecomentario">Comentarios</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="agregar">AGREGAR</string>
+</resources>
